@@ -7,13 +7,13 @@
    + parrot os 
    + arch-linux
 
-Requirement 
++ Requirement 
 
--airmon-ng
--airodump-ng
--aireplay-ng 
--gnome-terminal
--xterm
+ + airmon-ng
+ + airodump-ng
+ + aireplay-ng 
+ + gnome-terminal
+ + xterm
 
 
 To run
