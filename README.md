@@ -1,9 +1,9 @@
 # wakanda.sh
-Automated wifi Deauthour(wifi jammer)
+#Automated wifi Deauthour(wifi jammer)
 
 
 
-supported OS:
+*supported OS:
 -kali linux 
 -parrot os 
 -arch-linux
