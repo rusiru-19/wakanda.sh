@@ -1,6 +1,6 @@
 # wakanda.sh
 ## Automated wifi Deauthour(wifi jammer)
-
+### made for script kiddies
 
 + supported OS:
    + kali linux 
@@ -17,5 +17,7 @@
 
 
 To run
-`$ sudo install.sh` for the first time
-`$ sudo wakanda.sh` (run as root, otherwise wont work)
+
+  `$ sudo install.sh` for the first time
+ 
+  `$ sudo wakanda.sh` (run as root, otherwise wont work)
